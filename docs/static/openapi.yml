@@ -48498,6 +48498,8 @@ definitions:
         type: string
   mehdisbys.loan.loan.MsgApproveLoanResponse:
     type: object
+  mehdisbys.loan.loan.MsgCancelLoanResponse:
+    type: object
   mehdisbys.loan.loan.MsgLiquidateLoanResponse:
     type: object
   mehdisbys.loan.loan.MsgRepayLoanResponse:
