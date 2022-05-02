@@ -48496,6 +48496,12 @@ definitions:
         type: string
       lender:
         type: string
+  mehdisbys.loan.loan.MsgApproveLoanResponse:
+    type: object
+  mehdisbys.loan.loan.MsgLiquidateLoanResponse:
+    type: object
+  mehdisbys.loan.loan.MsgRepayLoanResponse:
+    type: object
   mehdisbys.loan.loan.MsgRequestLoanResponse:
     type: object
   mehdisbys.loan.loan.Params:
